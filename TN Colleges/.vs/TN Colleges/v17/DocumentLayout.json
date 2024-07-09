@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Migrations\\20240706105212_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240706105212_A.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\models\\state colleges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:models\\state colleges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\controllers\\tncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:controllers\\tncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\views\\tn\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:views\\tn\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\views\\tn\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:views\\tn\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\tn colleges.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9C3DBD0-C9F9-4A56-A98F-9114C5A5A59F}|TN Colleges.csproj|solutionrelative:tn colleges.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TN Colleges.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\TN Colleges.csproj",
+              "RelativeDocumentMoniker": "TN Colleges.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\TN Colleges.csproj",
+              "RelativeToolTip": "TN Colleges.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T03:22:44.266Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T03:25:45.877Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240706105212_A.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Migrations\\20240706105212_A.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240706105212_A.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Migrations\\20240706105212_A.cs",
+              "RelativeToolTip": "Migrations\\20240706105212_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:52:12.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "State Colleges.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Models\\State Colleges.cs",
+              "RelativeDocumentMoniker": "Models\\State Colleges.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Models\\State Colleges.cs",
+              "RelativeToolTip": "Models\\State Colleges.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:19:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Views\\TN\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TN\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Views\\TN\\Create.cshtml",
+              "RelativeToolTip": "Views\\TN\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:03:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TNController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Controllers\\TNController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TNController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Controllers\\TNController.cs",
+              "RelativeToolTip": "Controllers\\TNController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:52:10.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Views\\TN\\Read.cshtml",
+              "RelativeDocumentMoniker": "Views\\TN\\Read.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Views\\TN\\Read.cshtml",
+              "RelativeToolTip": "Views\\TN\\Read.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T04:18:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\TN Colleges\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:29:26.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

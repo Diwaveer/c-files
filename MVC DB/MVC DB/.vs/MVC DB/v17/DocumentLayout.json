@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|c:\\users\\administrator\\desktop\\cs\\mvc db\\mvc db\\mvc db\\models\\sam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\models\\sam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\photos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\photos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\photos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\photos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\photos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\photos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\photos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\photos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\migrations\\20240619171849_d2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\migrations\\20240619171849_d2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\photos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\mvc db\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9484D82B-04A1-486D-9879-5D3EA17425A0}|MVC DB\\MVC DB.csproj|solutionrelative:mvc db\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin1\\source\\repos\\MVC DB\\MVC DB\\Migrations\\20240619095028_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC DB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\appsettings.json",
+              "RelativeToolTip": "MVC DB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T09:42:10.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Program.cs",
+              "RelativeDocumentMoniker": "MVC DB\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Program.cs",
+              "RelativeToolTip": "MVC DB\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:40:09.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Photos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Details.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Photos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:39:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Photos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Create.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Photos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:14:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sam.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Models\\Sam.cs",
+              "RelativeDocumentMoniker": "MVC DB\\Models\\Sam.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Models\\Sam.cs",
+              "RelativeToolTip": "MVC DB\\Models\\Sam.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:36:28.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "MVC DB\\Controllers\\PhotosController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "MVC DB\\Controllers\\PhotosController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAQwKYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:10:36.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC DB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC DB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:04:30.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Photos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Index.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Photos\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:22:39.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Photos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Delete.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Photos\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:36:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240619171849_d2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Migrations\\20240619171849_d2.cs",
+              "RelativeDocumentMoniker": "MVC DB\\Migrations\\20240619171849_d2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Migrations\\20240619171849_d2.cs",
+              "RelativeToolTip": "MVC DB\\Migrations\\20240619171849_d2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:18:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:31:00.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Photos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Photos\\Edit.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Photos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:35:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:26:29.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:18:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:57:32.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC DB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\MVC DB\\MVC DB\\MVC DB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC DB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T09:56:20.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240619095028_d.cs",
+              "DocumentMoniker": "C:\\Users\\Admin1\\source\\repos\\MVC DB\\MVC DB\\Migrations\\20240619095028_d.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Admin1\\source\\repos\\MVC DB\\MVC DB\\Migrations\\20240619095028_d.cs",
+              "ToolTip": "C:\\Users\\Admin1\\source\\repos\\MVC DB\\MVC DB\\Migrations\\20240619095028_d.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Admin1\\source\\repos\\MVC DB\\MVC DB\\Migrations\\20240619095028_d.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:50:28.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

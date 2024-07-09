@@ -1,0 +1,40 @@
+﻿@model Hospital_Management.Models.Bill_entry
+
+<form asp-action="Create">
+    <div>
+        <label asp-for="PatientID">PatientID</label>
+        <input asp-for="PatientID" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="DoctorID">DoctorID</label>
+        <input asp-for="DoctorID" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="DoctorName">DoctorName</label>
+        <input asp-for="DoctorName" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="Billnumber">Billnumber </label>
+        <input asp-for="Billnumber " type="text" />
+    </div><br />
+    <br />
+    <div>
+        <label asp-for="Billamount">Billamount</label>
+        <input asp-for="Billamount" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="Medicaldescription">Medicaldescription</label>
+        <input asp-for="Medicaldescription" type="text" />
+    </div><br />
+
+    <button type="submit">SUBMIT</button>
+    <button asp-action="Read">READ</button>
+    <a href="/Doctorentry/Create" type="button">Bact to Doctorentry Details</a>
+
+    @if (TempData["a"] != null)
+    {
+        <h2>@TempData["a"]</h2>
+    }
+</form>
+
+

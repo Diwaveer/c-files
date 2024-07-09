@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\cs\Data type\bin\Debug\Data type.exe.config
+C:\Users\Administrator\Desktop\cs\Data type\bin\Debug\Data type.exe
+C:\Users\Administrator\Desktop\cs\Data type\bin\Debug\Data type.pdb
+C:\Users\Administrator\Desktop\cs\Data type\obj\Debug\Data type.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\Data type\obj\Debug\Data type.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\Data type\obj\Debug\Data type.exe
+C:\Users\Administrator\Desktop\cs\Data type\obj\Debug\Data type.pdb
+C:\Users\Administrator\Desktop\cs\Data types\obj\Debug\Data type.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\Data types\obj\Debug\Data type.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\Data types\obj\Debug\Data type.exe
+C:\Users\Administrator\Desktop\cs\Data types\obj\Debug\Data type.pdb
+C:\Users\Administrator\Desktop\cs\Data types\bin\Debug\Data type.exe.config
+C:\Users\Administrator\Desktop\cs\Data types\bin\Debug\Data type.exe
+C:\Users\Administrator\Desktop\cs\Data types\bin\Debug\Data type.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\files handle\bin\Debug\files handle.exe.config
+C:\Users\Administrator\Desktop\cs\files handle\bin\Debug\files handle.exe
+C:\Users\Administrator\Desktop\cs\files handle\bin\Debug\files handle.pdb
+C:\Users\Administrator\Desktop\cs\files handle\obj\Debug\files handle.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\files handle\obj\Debug\files handle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\files handle\obj\Debug\files handle.exe
+C:\Users\Administrator\Desktop\cs\files handle\obj\Debug\files handle.pdb

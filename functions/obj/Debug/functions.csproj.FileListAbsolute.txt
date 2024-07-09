@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\functions\bin\Debug\functions.exe.config
+C:\Users\Administrator\Desktop\cs\functions\bin\Debug\functions.exe
+C:\Users\Administrator\Desktop\cs\functions\bin\Debug\functions.pdb
+C:\Users\Administrator\Desktop\cs\functions\obj\Debug\functions.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\functions\obj\Debug\functions.exe
+C:\Users\Administrator\Desktop\cs\functions\obj\Debug\functions.pdb

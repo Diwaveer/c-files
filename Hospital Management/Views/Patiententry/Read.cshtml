@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Hospital_Management.Models.Patient_entry>
+<table>
+    <thead>
+        <tr>
+            <th scope="col">PatientID</th>
+            <th scope="col">PatientName</th>
+            <th scope="col">Age</th>
+            <th scope="col">Mobilenumber</th>
+            <th scope="col">Address</th>
+            <th scope="col">Checkbox</th>
+            <th scope="col">Date</th>                 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stud in Model)
+        {
+            <tr>
+                <td>@stud.PatientID</td>
+                <td>@stud.PatientName</td>
+                <td>@stud.Age</td>
+                <td>@stud.Mobilenumber</td>
+                <td>@stud.Address</td>
+                <td>@stud.Checkbox</td>
+                <td>@stud.Date</td>
+
+                <td>
+                    <a href="/Patiententry/Update?id=@stud.PatientID" type="button">Update</a>
+                </td>
+                <td>
+                    <a href="/Patiententry/Delete?id=@stud.PatientID" type="button">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\this keyword\bin\Debug\this keyword.exe.config
+C:\Users\Administrator\Desktop\cs\this keyword\bin\Debug\this keyword.exe
+C:\Users\Administrator\Desktop\cs\this keyword\bin\Debug\this keyword.pdb
+C:\Users\Administrator\Desktop\cs\this keyword\obj\Debug\this keyword.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\this keyword\obj\Debug\this keyword.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\this keyword\obj\Debug\this keyword.exe
+C:\Users\Administrator\Desktop\cs\this keyword\obj\Debug\this keyword.pdb

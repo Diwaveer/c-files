@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\ATM fn task\bin\Debug\ATM fn task.exe.config
+C:\Users\Administrator\Desktop\cs\ATM fn task\bin\Debug\ATM fn task.exe
+C:\Users\Administrator\Desktop\cs\ATM fn task\bin\Debug\ATM fn task.pdb
+C:\Users\Administrator\Desktop\cs\ATM fn task\obj\Debug\ATM fn task.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\ATM fn task\obj\Debug\ATM fn task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\ATM fn task\obj\Debug\ATM fn task.exe
+C:\Users\Administrator\Desktop\cs\ATM fn task\obj\Debug\ATM fn task.pdb

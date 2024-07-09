@@ -1,0 +1,47 @@
+﻿@model DineshKumar.Models.College
+
+<form asp-action ="Create">
+
+    <div>
+        <label asp-for="StaffID">StaffID</label>
+        <input asp-for="StaffID" type="Text" />
+    </div><br />
+    <div>
+        <label asp-for="StaffName">StaffName</label>
+        <input asp-for="StaffName" type="Text" />
+    </div><br />
+    <div>
+        <label asp-for="DepartmentName">DepartmentName</label>
+        <input asp-for="DepartmentName" type="Text" />
+    </div><br />
+    <div>
+        <label asp-for="Position">Postion</label>
+        <input asp-for="Position" type="Text" />
+    </div><br />
+    <div>
+        <label asp-for="Qualification">Qualification</label>
+        <input asp-for="Qualification" type="Text" />
+    </div><br/>
+    <div>
+        @using (Html.BeginForm("Upload", "YourController", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            @Html.LabelFor(model => model.Masterdepartment)
+            @Html.DropDownListFor(model => model.Masterdepartment, new SelectList(new[] { "EVS", "DESIGN", "STRUCTURE" }), "Select an option")
+
+            <br />
+
+            <label asp-for="File">Upload File:</label>
+            <input type="file" name="file" id="file" />
+            <input type="submit" value="Upload" />
+        }
+    </div>S
+
+    
+    <button type ="submit">SUBMIT</button>
+    <a href="Read">READ</a>
+    
+    @if(TempData["a"]!=null)
+    {
+        <h2>@TempData["a"]</h2>
+    }
+</form>

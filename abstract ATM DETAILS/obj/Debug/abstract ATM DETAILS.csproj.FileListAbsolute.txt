@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\bin\Debug\abstract ATM DETAILS.exe.config
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\bin\Debug\abstract ATM DETAILS.exe
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\bin\Debug\abstract ATM DETAILS.pdb
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\obj\Debug\abstract ATM DETAILS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\obj\Debug\abstract ATM DETAILS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\obj\Debug\abstract ATM DETAILS.exe
+C:\Users\Administrator\Desktop\cs\abstract ATM DETAILS\obj\Debug\abstract ATM DETAILS.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\loops task1\bin\Debug\loops task1.exe.config
+C:\Users\Administrator\Desktop\cs\loops task1\bin\Debug\loops task1.exe
+C:\Users\Administrator\Desktop\cs\loops task1\bin\Debug\loops task1.pdb
+C:\Users\Administrator\Desktop\cs\loops task1\obj\Debug\loops task1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\loops task1\obj\Debug\loops task1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\loops task1\obj\Debug\loops task1.exe
+C:\Users\Administrator\Desktop\cs\loops task1\obj\Debug\loops task1.pdb

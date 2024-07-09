@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\mark list task\bin\Debug\mark list task.exe.config
+C:\Users\Administrator\Desktop\cs\mark list task\bin\Debug\mark list task.exe
+C:\Users\Administrator\Desktop\cs\mark list task\bin\Debug\mark list task.pdb
+C:\Users\Administrator\Desktop\cs\mark list task\obj\Debug\mark list task.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\mark list task\obj\Debug\mark list task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\mark list task\obj\Debug\mark list task.exe
+C:\Users\Administrator\Desktop\cs\mark list task\obj\Debug\mark list task.pdb

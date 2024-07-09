@@ -1,0 +1,31 @@
+﻿@model TN_Colleges.Models.State_Colleges
+
+<form asp-action="Create">
+    <div>
+        <label asp-for="CollegeName">CollgeName</label>
+        <input asp-for="CollegeName" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="State">State</label>
+        <input asp-for="State" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="District" >District</label>
+        <input asp-for="District" type="text" />
+    </div><br />
+    
+    <div>
+        <label asp-for="AreaName">AreaName</label>
+        <input asp-for="AreaName" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="Rank">Rank</label>
+        <input asp-for="Rank" type="text" />
+    </div><br />
+    <button type="Submit">SUBMIT</button>
+    <a href ="Read">READ</a>
+    @if(TempData["a"]!=null)
+    {
+        <h2>@TempData["a"]</h2>
+    }
+</form>

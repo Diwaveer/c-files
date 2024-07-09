@@ -1,0 +1,59 @@
+﻿@model Hospital_Management.Models.Patient_entry
+
+<form asp-action="Update">
+    <input type="hidden"asp-for="PatientID" />
+    <div>
+        <label asp-for="PatientID">PatientID</label>
+        <input asp-for="PatientID" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="PatientName">PatientName</label>
+        <input asp-for="PatientName" type="text" />
+    </div><br />
+    <div>
+        <label asp-for="Age">Age</label>
+        <input asp-for="Age" type="text" />
+    </div><br />
+    <div class="form-group">
+        <label asp-for="Gender">Gender</label>
+        <div>
+            <input asp-for="Gender" type="radio" value="male" />MALE
+            <input asp-for="Gender" type="radio" value="female" />FEMALE
+            <input asp-for="Gender" type="radio" value="others" />OTHERS
+        </div>
+        <span asp-validation-for="Gender" class="text-danger"></span>
+
+        <div />
+        <br />
+        <div>
+            <label asp-for="Mobilenumber">Mobilenumber</label>
+            <input asp-for="Mobilenumber" type="text" />
+        </div><br />
+        <div>
+            <label asp-for="Address">Address</label>
+            <textarea asp-for="Address" cols="20" rows="5"></textarea>
+        </div><br />
+        <div class="form-group">
+            <label asp-for="Checkbox">Purposeofvisit:</label>
+            <div>
+                <input asp-for="Checkbox" type="radio" value="general" />GENERAL
+                <input asp-for="Checkbox" type="radio" value="emergency" />EMERGENCY
+                <input asp-for="Checkbox" type="radio" value="others" />OTHERS
+            </div>
+            <span asp-validation-for="Checkbox" class="text-danger"></span>
+
+            <div />
+            <br />
+            <div>
+                <label asp-for="Date">Date</label>
+                <input asp-for="Date" type="datetime-local" />
+            </div><br />
+
+            <button type="submit">Update</button>
+
+            @if (TempData["a"] != null)
+            {
+                <h2>@TempData["a"]</h2>
+            }
+</form>
+

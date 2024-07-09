@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Hospital_Management.Models.Bill_entry>
+<table>
+    <thead>
+        <tr>
+            <th scope="col">PatientID</th>
+            <th scope="col">DoctorID</th>
+            <th scope="col">DoctorName</th>
+            <th scope="col">Billnumber</th>
+            <th scope="col">Billamount</th>
+            <th scope="col">Medicaldescription</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stud in Model)
+        {
+            <tr>
+                <td>@stud.PatientID</td>
+                <td>@stud.DoctorID</td>
+                <td>@stud.DoctorName</td>
+                <td>@stud.Billnumber</td>
+                <td>@stud.Billamount</td>
+                <td>@stud.Medicaldescription</td>
+                <td>
+                    <a href="/Billentry/Update?id=@stud.PatientID" type="button">Update</a>
+                </td>
+                <td>
+                    <a href="/Billentry/Delete?id=@stud.PatientID" type="button">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

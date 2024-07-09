@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abtraction and interface", "abtraction and interface.csproj", "{264D89B0-1E70-4FDA-B293-A66CA973F2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264D89B0-1E70-4FDA-B293-A66CA973F2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264D89B0-1E70-4FDA-B293-A66CA973F2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264D89B0-1E70-4FDA-B293-A66CA973F2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264D89B0-1E70-4FDA-B293-A66CA973F2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7DF448-1581-40B6-A3FB-4EE58DED5AD6}
+	EndGlobalSection
+EndGlobal

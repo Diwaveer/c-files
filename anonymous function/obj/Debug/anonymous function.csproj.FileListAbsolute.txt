@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\anonymous function\bin\Debug\anonymous function.exe.config
+C:\Users\Administrator\Desktop\cs\anonymous function\bin\Debug\anonymous function.exe
+C:\Users\Administrator\Desktop\cs\anonymous function\bin\Debug\anonymous function.pdb
+C:\Users\Administrator\Desktop\cs\anonymous function\obj\Debug\anonymous function.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\anonymous function\obj\Debug\anonymous function.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\anonymous function\obj\Debug\anonymous function.exe
+C:\Users\Administrator\Desktop\cs\anonymous function\obj\Debug\anonymous function.pdb

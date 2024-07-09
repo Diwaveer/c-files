@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Hotol_Mgt.Models.College>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">StudentID</th>
+            <th scope="col">StudentName</th>
+            <th scope="col">StudentEmail</th>
+            <th scope="col">StudentPhone</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stud in Model)
+        {
+            <tr>
+                <td>@stud.StudentID</td>
+                <td>@stud.StudentName</td>
+                <td>@stud.StudentEmail</td>
+                <td>@stud.StudentPhone</td>
+
+                <td>
+                    <a href="/Home/Edit?id=@stud.StudentID" type="button">Edit</a>
+                </td>
+                <br />
+                <td>
+                    <a href="/Home/Delete?id=@stud.StudentID" type="button">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

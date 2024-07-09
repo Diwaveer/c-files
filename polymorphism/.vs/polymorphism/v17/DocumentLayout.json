@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02378C00-9556-4943-B9B2-5262CE3C0051}|polymorphism.csproj|c:\\users\\administrator\\desktop\\cs\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02378C00-9556-4943-B9B2-5262CE3C0051}|polymorphism.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD60320-3C59-4445-9E0A-A0A36E151B85}|NewFolder1{3CD60320-3C59-4445-9E0A-A0A36E151B85}|C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3CD60320-3C59-4445-9E0A-A0A36E151B85}|NewFolder1{3CD60320-3C59-4445-9E0A-A0A36E151B85}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T05:38:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\polymorphism\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:31:47.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

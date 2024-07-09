@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hotol Mgt.props" />
+</Project>

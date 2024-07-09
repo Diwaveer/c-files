@@ -1,0 +1,38 @@
+﻿@model IEnumerable< DineshKumar.Models.College>
+
+<table>
+    <thead>
+       
+        <th scope ="Col">StaffID</th>
+        <th scope="Col">StaffName</th>
+        <th scope="Col">DepartmentName</th>
+        <th scope="Col">Position</th>
+        <th scope ="col">Qualification</th>
+    <th scope="col">Masterdepartment</th>
+    <th scope="col">File</th>
+         
+
+    </thead>
+    <tbody>
+        @foreach (var stud in Model)
+        {
+            <tr>
+               
+                <td>@stud.StaffID</td>
+                <td>@stud.StaffName</td>
+                <td>@stud.DepartmentName</td>
+                <td>@stud.Position</td>
+                <td>@stud.Qualification</td>
+                <td>@stud.Masterdepartment</td>
+                <td>@stud.File</td>
+
+
+                <td>
+                    <a href="/College/Update?id=@stud.StaffID"type="button">UPDATE</a>
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+</table>

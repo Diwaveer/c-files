@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|c:\\users\\administrator\\desktop\\cs\\hotol mgt\\views\\home\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:views\\home\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\migrations\\20240701095753_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:migrations\\20240701095753_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28393E5A-D60F-4D23-A28E-E79AEB340893}|Hotol Mgt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240701095753_A.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Migrations\\20240701095753_A.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240701095753_A.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Migrations\\20240701095753_A.cs",
+              "RelativeToolTip": "Migrations\\20240701095753_A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:57:53.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:52:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Read.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Read.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Read.cshtml",
+              "RelativeToolTip": "Views\\Home\\Read.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:51:11.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "Views\\Home\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:50:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:48:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T09:48:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:46:44.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Models\\College.cs",
+              "RelativeDocumentMoniker": "Models\\College.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cs\\Hotol Mgt\\Models\\College.cs",
+              "RelativeToolTip": "Models\\College.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:45:14.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

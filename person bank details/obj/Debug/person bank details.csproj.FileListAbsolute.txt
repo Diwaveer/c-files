@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\person bank details\bin\Debug\person bank details.exe.config
+C:\Users\Administrator\Desktop\cs\person bank details\bin\Debug\person bank details.exe
+C:\Users\Administrator\Desktop\cs\person bank details\bin\Debug\person bank details.pdb
+C:\Users\Administrator\Desktop\cs\person bank details\obj\Debug\person bank details.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\person bank details\obj\Debug\person bank details.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\person bank details\obj\Debug\person bank details.exe
+C:\Users\Administrator\Desktop\cs\person bank details\obj\Debug\person bank details.pdb

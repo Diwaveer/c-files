@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\abtraction and interface\bin\Debug\abtraction and interface.exe.config
+C:\Users\Administrator\Desktop\cs\abtraction and interface\bin\Debug\abtraction and interface.exe
+C:\Users\Administrator\Desktop\cs\abtraction and interface\bin\Debug\abtraction and interface.pdb
+C:\Users\Administrator\Desktop\cs\abtraction and interface\obj\Debug\abtraction and interface.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\abtraction and interface\obj\Debug\abtraction and interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\abtraction and interface\obj\Debug\abtraction and interface.exe
+C:\Users\Administrator\Desktop\cs\abtraction and interface\obj\Debug\abtraction and interface.pdb

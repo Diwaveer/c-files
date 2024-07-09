@@ -1,0 +1,30 @@
+﻿@model IEnumerable<TN_Colleges.Models.State_Colleges>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">SNo</th>
+            <th scope="col">CollegeName</th>
+            <th scope="col">State</th>
+            <th scope="col">District</th>
+            <th scope="col">AreaName</th>
+            <th scope="col">Rank</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stud in Model)
+        {
+            <tr>
+                <td>@stud.SNo</td>
+                <td>@stud.CollegeName</td>
+                <td>@stud.State</td>
+                <td>@stud.District</td>
+                <td>@stud.AreaName</td>
+                <td>@stud.Rank</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+

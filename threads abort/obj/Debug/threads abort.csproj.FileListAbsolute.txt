@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\cs\threads abort\bin\Debug\threads abort.exe.config
+C:\Users\Administrator\Desktop\cs\threads abort\bin\Debug\threads abort.exe
+C:\Users\Administrator\Desktop\cs\threads abort\bin\Debug\threads abort.pdb
+C:\Users\Administrator\Desktop\cs\threads abort\obj\Debug\threads abort.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\cs\threads abort\obj\Debug\threads abort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cs\threads abort\obj\Debug\threads abort.exe
+C:\Users\Administrator\Desktop\cs\threads abort\obj\Debug\threads abort.pdb
